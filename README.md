@@ -14,7 +14,7 @@ This is a simple implementation of the classic Tic Tac Toe game in Python.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tictactoe.git
+git clone https://github.com/0siel/Tictactoe_game.git
 ```
 
 2. Navigate to the project directory:
